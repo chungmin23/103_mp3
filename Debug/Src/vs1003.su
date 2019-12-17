@@ -1,0 +1,15 @@
+vs1003.c:110:17:VS1003_SPI_ReadWriteByte	32	static
+vs1003.c:73:13:VS1003_SPI_SetSpeed	8	static
+vs1003.c:42:6:VS1003_SPI_Init	16	static
+vs1003.c:126:6:VS1003_Init	8	static
+vs1003.c:197:6:VS1003_WriteReg	16	static
+vs1003.c:220:10:VS1003_ReadReg	8	static
+vs1003.c:246:6:VS1003_ResetDecodeTime	8	static
+vs1003.c:260:10:VS1003_GetDecodeTime	0	static
+vs1003.c:273:6:VS1003_SoftReset	16	static
+vs1003.c:334:6:VS1003_Reset	8	static
+vs1003.c:355:6:VS1003_SineTest	8	static
+vs1003.c:420:6:VS1003_RamTest	16	static
+vs1003.c:449:6:VS1003_SetVol	8	static
+vs1003.c:478:6:VS1003_WriteData	16	static
+vs1003.c:500:6:VS1003_Record_Init	16	static

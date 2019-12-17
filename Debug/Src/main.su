@@ -1,0 +1,14 @@
+main.c:79:5:_write	8	static
+main.c:90:6:delay_us	0	static
+main.c:109:6:LCD_DATA	40	static
+main.c:123:6:LCD_CMD	40	static
+main.c:137:6:LCD_CMD_4bit	40	static
+main.c:145:6:LCD_INIT	8	static
+main.c:160:6:LCD_XY	0	static
+main.c:167:6:LCD_CLEAR	8	static
+main.c:172:6:LCD_PUTS	8	static
+main.c:369:6:SystemClock_Config	72	static
+main.c:183:5:main	120	static
+main.c:423:6:_Error_Handler	0	static
+main.c:435:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:474:6:Error_Handler	0	static
